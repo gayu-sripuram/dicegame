@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color:beige;
+}
+
+h1 {
+    margin: 30px;
+    font-size: 4rem;
+    color:#323232;
+}
+h2{
+    margin: 30px;
+    font-size: 4rem;
+    color:#323232;
+}
+
+p {
+    font-size: 2rem;
+    color: #323232;
+}
+
+img {
+    width: 60%;
+}
+footer {
+    margin-top: 5%;
+    color: #323232;
+    text-align: center;
+}
